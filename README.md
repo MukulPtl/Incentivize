@@ -1,4 +1,4 @@
-# CryptoCares
+# Incentivize
 
 Our project, Incentivize, serves as a bridge between generous donors and dedicated domain experts in the domain of philanthropy. Through this initiative, individuals are encouraged to donate to charitable causes and relief campaigns in exchange for the valuable time and expertise of specialists in various fields.
 
