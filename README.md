@@ -15,8 +15,7 @@ While our current initiative is exclusively dedicated to supporting Sandeep Nail
 
 # To run:
 
-## Clone
-https://github.com/robin-rrt/crypto-cares
+## Clone this repo
 
 ## Install Dependancies
 ```
