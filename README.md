@@ -2,7 +2,7 @@
 
 Our project, Incentivize, serves as a bridge between generous donors and dedicated domain experts in the domain of philanthropy. Through this initiative, individuals are encouraged to donate to charitable causes and relief campaigns in exchange for the valuable time and expertise of specialists in various fields.
 
-While our current initiative is exclusively dedicated to supporting Sandeep Nailwal's Indian Covid Crypto Relief campaign, we envision expanding our platform to accommodate any verified fund or charitable organization, allowing them to enlist for charitable donations.
+While Incentivize is committed to its core mission, we will always look to broaden our horizons and make a positive impact on the world. Our vision extends beyond any specific initiative, and we are eager to collaborate with a multitude of verified funds and charitable organizations. This inclusive approach allows us to facilitate donations and support a wide array of noble causes, contributing to a brighter and more compassionate world.
 
 
 ## Video Overview
