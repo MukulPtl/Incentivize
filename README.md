@@ -6,11 +6,11 @@ While our current initiative is exclusively dedicated to supporting Sandeep Nail
 
 
 ## Video Overview
-https://www.canva.com/design/DAFx2ORJkxY/QOD_WeQZivUGegxbDBH0eg/edit?utm_content=DAFx2ORJkxY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[Video Link](https://www.canva.com/design/DAFx2ORJkxY/QOD_WeQZivUGegxbDBH0eg/edit?utm_content=DAFx2ORJkxY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Incentivize
-https://www.canva.com/design/DAFx1-EfP5k/GA-z1qDdtiUXf1c9M-CMOg/edit?utm_content=DAFx1-EfP5k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[Presentation](https://www.canva.com/design/DAFx1-EfP5k/GA-z1qDdtiUXf1c9M-CMOg/edit?utm_content=DAFx1-EfP5k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
